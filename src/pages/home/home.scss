@@ -1,0 +1,44 @@
+page-home {
+    background-color: #363C4A;
+}
+#but
+{
+    width: 190px;
+    height: 190px;;
+border-color: rgba(0, 0, 0, 0);
+background-color: rgba(92, 68, 68, 0);
+border: 3px solid rgb(122, 190, 221);
+color: rgb(0, 0, 0);
+text-align: center;
+display: block;
+margin-left: auto;
+margin-right: auto;
+box-shadow: 0px 0px 52px rgb(255, 255, 255);
+color: white;
+border-radius: 50%;}
+.actice, #but:hover{
+    background-color: rgba(162, 185, 183, 0.616);
+}
+#all{
+    
+    background-color:#4A697E;
+    color: white;
+    height: 100%;
+    width: 100%;
+
+}
+.image{
+    background-image: url('../../assets/imgs/pic1.jpg');
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70px;
+    height: 70px;
+    border-radius: 11px;
+}
+h2{
+    text-align: center;
+}
