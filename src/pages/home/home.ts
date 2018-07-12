@@ -29,7 +29,7 @@ export class HomePage {
     "Lures, reels, rods, hooks, baits and nets are common equipment used in what food gathering method?"];
 
     this.answers = ["Two", "Harp", "Two hundred and six", "Octopus", "Three", "Mercury","Mercury","Venus","8","Mars","Cows",
-    "8", "Antarctica", "Fish","Kids","A meteorologist","The Atacama Desert","A barometer","Clouds", "Warming","True","Ingredients","Milk","Carbohydrates","Fishing"];
+    "8", "Antarctica", "Fish","Kids","A Meteorologist","The Atacama Desert","A barometer","Clouds", "Warming","True","Ingredients","Milk","Carbohydrates","Fishing"];
 
 
     for (var x = 0; x < 25; x++){

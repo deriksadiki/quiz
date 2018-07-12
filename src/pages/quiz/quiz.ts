@@ -41,7 +41,7 @@ export class QuizPage {
                   "Africa","Antarctica","America","Asia",
                   "Fish","A Mammal","","",
                   "Goatlests","Kids","Babies","A Fish",
-                  "A Hydrologist","A Geoscientist","A meteorologist","Geophysicist",
+                  "A Hydrologist","A Geoscientist","A Meteorologist","Geophysicist",
                   "The Atacama Desert","Sahara","Gobi Desert","Kalahari Desert",
                   "A Pyranometer","A Anemometer","A Thermometer","A barometer",
                   "Atmosphere","Planets","Clouds","Stars",
